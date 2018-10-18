@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class Test3_Scanner {
+public class Test2_2_Scanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);        // 创建录入对象
 

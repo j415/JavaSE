@@ -1,6 +1,6 @@
 import java.util.Scanner;               // 导入包中的类Scanner
 
-public class Test2_Scanner {
+public class Test2_1_Scanner {
     /*
      * A: 案例演示
      * 键盘录入练习：键盘录入两个数据，并对这两个数据求和，输出其结果
