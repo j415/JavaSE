@@ -6,8 +6,9 @@ public class Demo3_1_Static {
         p1.speak();
 
         Person4 p2 = new Person4();             // 创建对象
-        p2.name = "aspiring02";                   // 调用姓名属性并赋值
-        p2.country = "china02";                   // 调用国际属性并赋值
+        // p2.name = "aspiring02";                   // 调用姓名属性并赋值
+        // p2.country = "china02";                   // 调用国际属性并赋值
+        // p1.speak();
         p2.speak();
 
 
@@ -16,7 +17,7 @@ public class Demo3_1_Static {
 
 class Person4 {
     String name;
-    String country;
+    static String country;
 
     public void speak() {
         System.out.println(name + "--- " + country);
