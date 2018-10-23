@@ -26,7 +26,7 @@ Animal是符类
 Cat和Dog是子类
  */
 
-class Aminal{
+class Animal{
     String color;                   // 动物的颜色
     int leg;                        // 腿的个数
 
@@ -38,7 +38,7 @@ class Aminal{
     }
 }
 
-class Cat extends Aminal{
+class Cat extends Animal{
 //    String color;                   // 动物的颜色
 //    int leg;                        // 腿的个数
 //
@@ -50,7 +50,7 @@ class Cat extends Aminal{
 //    }
 }
 
-class Dog extends Aminal{
+class Dog extends Animal{
 //    String color;                   // 动物的颜色
 //    int leg;                        // 腿的个数
 //
