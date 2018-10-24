@@ -1,7 +1,7 @@
 /*
  * B:看下面程序是否有问题，如果没有，说出结果
  */
-public class Test2_Polymorphic {
+public class Test2_1_Polymorphic {
     public static void main(String[] args) {
         A a = new B();
         a.show();
