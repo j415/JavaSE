@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a8088e5-b79c-478d-ac1d-81e12c6e7cd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2_Polymorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test2_1_Polymorphic.java" afterDir="false" />
-    </list>
+    <list default="true" id="8a8088e5-b79c-478d-ac1d-81e12c6e7cd3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +13,7 @@
     <session id="-1695484978">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.opened" value="2" />
@@ -104,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/src/Test4_Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1600">
-              <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
               <folding>
                 <element signature="e#427#428#0" expanded="true" />
                 <element signature="e#459#460#0" expanded="true" />
@@ -185,7 +183,7 @@
         <entry file="file://$PROJECT_DIR$/src/Demo3_3_Interface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="470">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="e#452#453#0" expanded="true" />
                 <element signature="e#473#474#0" expanded="true" />
@@ -199,8 +197,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test6_Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+            <state relative-caret-position="-700">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding>
                 <element signature="e#427#428#0" expanded="true" />
                 <element signature="e#473#474#0" expanded="true" />
@@ -210,12 +208,14 @@
                 <element signature="e#634#635#0" expanded="true" />
                 <element signature="e#659#660#0" expanded="true" />
                 <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1337#1338#0" expanded="true" />
+                <element signature="e#1380#1381#0" expanded="true" />
                 <element signature="e#1121#1122#0" expanded="true" />
                 <element signature="e#1162#1163#0" expanded="true" />
                 <element signature="e#1187#1188#0" expanded="true" />
                 <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1682#1683#0" expanded="true" />
+                <element signature="e#1725#1726#0" expanded="true" />
                 <element signature="e#1741#1742#0" expanded="true" />
                 <element signature="e#1786#1787#0" expanded="true" />
               </folding>
@@ -275,11 +275,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="53" />
+    <option name="y" value="16" />
+    <option name="width" value="1400" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -312,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540369864709" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540380831324" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -396,16 +396,15 @@
       <option name="presentableId" value="Default" />
       <updated>1540263718059</updated>
       <workItem from="1540263720905" duration="12616000" />
-      <workItem from="1540359997866" duration="9371000" />
+      <workItem from="1540359997866" duration="11372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21987000" />
+    <option name="totallyTimeSpent" value="23988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13538875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -434,7 +433,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.25268096" />
+      <window_info anchor="right" id="Run" order="9" weight="0.25268096" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +549,7 @@
     <entry file="file://$PROJECT_DIR$/src/Test4_Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1600">
-          <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
           <folding>
             <element signature="e#427#428#0" expanded="true" />
             <element signature="e#459#460#0" expanded="true" />
@@ -621,7 +620,7 @@
     <entry file="file://$PROJECT_DIR$/src/Demo3_3_Interface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="e#452#453#0" expanded="true" />
             <element signature="e#473#474#0" expanded="true" />
@@ -633,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test6_Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        <state relative-caret-position="-700">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding>
             <element signature="e#427#428#0" expanded="true" />
             <element signature="e#473#474#0" expanded="true" />
@@ -644,12 +643,14 @@
             <element signature="e#634#635#0" expanded="true" />
             <element signature="e#659#660#0" expanded="true" />
             <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
             <element signature="e#1121#1122#0" expanded="true" />
             <element signature="e#1162#1163#0" expanded="true" />
             <element signature="e#1187#1188#0" expanded="true" />
             <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
             <element signature="e#1741#1742#0" expanded="true" />
             <element signature="e#1786#1787#0" expanded="true" />
           </folding>
