@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e3f1cd6-28c0-486d-8735-8e9babb25dca" name="Default Changelist" comment="" />
+    <list default="true" id="1e3f1cd6-28c0-486d-8735-8e9babb25dca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +18,31 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6220" />
+          <entry key="java" value="7489" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6220" />
+          <entry key="JAVA" value="7489" />
         </counts>
       </usages-collector>
     </session>
@@ -45,57 +50,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_5_StringMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#884#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#108#0" expanded="true" />
-              </folding>
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_7_StringMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#108#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="645">
+              <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_6_StringMethod.java">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="470">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#629#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="400">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="e#0#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_4_StringMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#1957#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,6 +141,9 @@
         <option value="$PROJECT_DIR$/src/com/heima/string/Demo2_6_StringMethod.java" />
         <option value="$PROJECT_DIR$/src/com/heima/test/Test4.java" />
         <option value="$PROJECT_DIR$/src/com/heima/test/Test5.java" />
+        <option value="$PROJECT_DIR$/src/com/heima/string/Demo2_7_StringMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/heima/test/Test6.java" />
+        <option value="$PROJECT_DIR$/src/com/heima/test/Test7.java" />
       </list>
     </option>
   </component>
@@ -148,7 +153,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="50" />
     <option name="y" value="15" />
     <option name="width" value="1400" />
@@ -162,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,12 +204,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540907857045" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540992887147" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -225,39 +230,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="Demo2_6_StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.heima.string.Demo2_6_StringMethod" />
+  <component name="RunManager" selected="Application.Test7">
+    <configuration name="Demo2_7_StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heima.string.Demo2_7_StringMethod" />
       <module name="day12" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.heima.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.heima.test.Test2" />
-      <module name="day12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.heima.test.Test3" />
-      <module name="day12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,20 +270,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heima.test.Test6" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heima.test.Test7" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Test3" />
-      <item itemvalue="Application.Demo2_6_StringMethod" />
       <item itemvalue="Application.Test4" />
       <item itemvalue="Application.Test5" />
+      <item itemvalue="Application.Demo2_7_StringMethod" />
+      <item itemvalue="Application.Test6" />
+      <item itemvalue="Application.Test7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.Demo2_7_StringMethod" />
         <item itemvalue="Application.Test5" />
         <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Demo2_6_StringMethod" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -321,16 +326,19 @@
       <workItem from="1540644039286" duration="6240000" />
       <workItem from="1540694691667" duration="3232000" />
       <workItem from="1540896499945" duration="11392000" />
+      <workItem from="1540983054847" duration="3845000" />
+      <workItem from="1540988033889" duration="4433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20864000" />
+    <option name="totallyTimeSpent" value="29142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13337801" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18900804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,7 +365,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Run" order="9" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.22788204" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,13 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_4_StringMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -424,37 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program_Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="3006" column="25" selection-start-line="3006" selection-start-column="25" selection-end-line="3006" selection-end-column="25" />
-          <folding>
-            <element signature="e#118405#118406#0" expanded="true" />
-            <element signature="e#118444#118445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/bean/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -471,16 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_5_StringMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#884#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -488,17 +448,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_6_StringMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="175">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test5.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program_Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4411">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program_Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1190" column="8" selection-start-line="1190" selection-start-column="8" selection-end-line="1211" selection-end-column="9" />
+          <folding>
+            <element signature="e#47538#47539#0" expanded="true" />
+            <element signature="e#47602#47603#0" expanded="true" />
+            <element signature="e#118405#118406#0" expanded="true" />
+            <element signature="e#118444#118445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_5_StringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_6_StringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_7_StringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/string/Demo2_4_StringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="e#0#108#0" expanded="true" />
           </folding>
