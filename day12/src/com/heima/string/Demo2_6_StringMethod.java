@@ -14,7 +14,7 @@ package com.heima.string;
 
 import com.heima.bean.Person;
 
-public class Demo2_6_StringMethod {
+public class  Demo2_6_StringMethod {
     public static void main(String[] args) {
         // demo1();
         // demo2();
