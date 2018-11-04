@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e2881e-f0bc-4ef9-87f3-4e3ad030a213" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo1_Logical_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo2_Logical_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo3_1_Bitwise_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo3_2_Bitwise_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo3_3_Bitwise_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo4_1_Ternary_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo5_1_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo6_1_Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo7_1_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo7_2_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo7_3_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo7_4_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo7_5_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Demo8_1_Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test1_Ternary_Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test2_1_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test2_2_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test3_1_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test3_2_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test4_1_Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test4_2_Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Test4_3_Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04e2881e-f0bc-4ef9-87f3-4e3ad030a213" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,29 +42,30 @@
     <session id="1981612068">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="644" />
+          <entry key="java" value="1100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="644" />
+          <entry key="JAVA" value="1100" />
         </counts>
       </usages-collector>
     </session>
@@ -144,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/heima/stringbuffer/Demo1_6_StringBufferMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="650">
               <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
             </state>
           </provider>
@@ -153,11 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test1_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="525">
               <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#211#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,26 +138,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test1_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#195#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/stringbuffer/Demo1_7_StringBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/heima/stringbuffer/Demo1_7_StringBuffer.java">
+        <entry file="file://$PROJECT_DIR$/src/com/heima/array/Demo2_1_Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="600">
+              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
               <folding>
-                <element signature="e#0#315#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#0#142#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -214,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/com/heima/test/Test1_1.java" />
         <option value="$PROJECT_DIR$/src/com/heima/test/Test1_2.java" />
         <option value="$PROJECT_DIR$/src/com/heima/stringbuffer/Demo1_7_StringBuffer.java" />
+        <option value="$PROJECT_DIR$/src/com/heima/array/Demo2_1_Array.java" />
       </list>
     </option>
   </component>
@@ -238,6 +214,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,26 +238,18 @@
               <item name="day13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="heima" type="462c0819:PsiDirectoryNode" />
-              <item name="stringbuffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="heima" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541170297528" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541343785367" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -301,20 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1_7_StringBuffer">
-    <configuration name="Demo1_4_StringBufferMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.heima.stringbuffer.Demo1_4_StringBufferMethod" />
-      <module name="day13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.stringbuffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo2_1_Array">
     <configuration name="Demo1_5_StringBufferMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.heima.stringbuffer.Demo1_5_StringBufferMethod" />
       <module name="day13" />
@@ -354,6 +310,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo2_1_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heima.array.Demo2_1_Array" />
+      <module name="day13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.heima.test.Test1_2" />
       <module name="day13" />
@@ -368,19 +337,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo1_4_StringBufferMethod" />
       <item itemvalue="Application.Demo1_5_StringBufferMethod" />
       <item itemvalue="Application.Demo1_6_StringBufferMethod" />
       <item itemvalue="Application.Test1_2" />
       <item itemvalue="Application.Demo1_7_StringBuffer" />
+      <item itemvalue="Application.Demo2_1_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2_1_Array" />
         <item itemvalue="Application.Demo1_7_StringBuffer" />
         <item itemvalue="Application.Test1_2" />
         <item itemvalue="Application.Demo1_6_StringBufferMethod" />
         <item itemvalue="Application.Demo1_5_StringBufferMethod" />
-        <item itemvalue="Application.Demo1_4_StringBufferMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -396,16 +365,17 @@
       <updated>1541074721193</updated>
       <workItem from="1541074727260" duration="6111000" />
       <workItem from="1541167649740" duration="2729000" />
+      <workItem from="1541338930548" duration="4527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8840000" />
+    <option name="totallyTimeSpent" value="13367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,7 +402,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Run" order="9" weight="0.32841823" />
+      <window_info anchor="right" id="Run" order="9" weight="0.35924932" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,41 +449,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/stringbuffer/Demo1_6_StringBufferMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="650">
           <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test1_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="525">
           <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-          <folding>
-            <element signature="e#0#211#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test1_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#195#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heima/stringbuffer/Demo1_7_StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="175">
           <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heima/array/Demo2_1_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
           <folding>
-            <element signature="e#0#315#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#0#142#0" expanded="true" />
           </folding>
         </state>
       </provider>
