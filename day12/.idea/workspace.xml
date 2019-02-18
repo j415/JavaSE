@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e3f1cd6-28c0-486d-8735-8e9babb25dca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heima/string/Demo2_6_StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heima/string/Demo2_6_StringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day14/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +16,15 @@
     <session id="-2116841724">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -210,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -247,13 +249,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540996877963" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day11" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -372,16 +374,17 @@
       <workItem from="1540983054847" duration="3845000" />
       <workItem from="1540988033889" duration="6745000" />
       <workItem from="1541074696121" duration="29000" />
+      <workItem from="1550383756976" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31483000" />
+    <option name="totallyTimeSpent" value="31492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19168901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19436997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,11 +421,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/课件/day12_code/讲师代码/day12/src/com/heima/string/Demo5_StringMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/课件/day12_code/讲师代码/day12/src/com/heima/string/Demo5_StringMethod.java" />
     <entry file="file://$PROJECT_DIR$/src/com/heima/test/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
